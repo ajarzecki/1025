@@ -8,7 +8,6 @@
 | Keras 1  | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day2/Keras1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>                     |
 | Keras 2  | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day2/Keras_CNN_Basic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>            |
 | Keras 3  | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day2/Keras_CNN_TransferLearning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| Notebook | URL                                                                                                                                                                                                                            |
 
 # Day 1
 
