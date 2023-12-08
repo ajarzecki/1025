@@ -1,5 +1,15 @@
 # Day 2
 
+| Notebook        | URL                                                                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Embeddings      | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day3/Embeddings.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |
+| Transformers    | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day3/TransformersNLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Computer Vision | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day3/ComputerVision.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |
+| Audio           | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day3/Audio.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>           |
+| Diffusers       | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day3/Diffusers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>       |
+
+# Day 2
+
 | Notebook | URL                                                                                                                                                                                                                            |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ML 1     | <a target="_blank" href="https://colab.research.google.com/github/bpampuch/1025/blob/main/day2/ClassicML.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>                  |
